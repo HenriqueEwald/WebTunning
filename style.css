@@ -1,5 +1,6 @@
-* {
+Body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: rgb(221, 217, 205);
 }
