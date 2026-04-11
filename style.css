@@ -1,6 +1,12 @@
-Body {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: rgb(221, 217, 205);
+  background-color: rgb(187, 183, 172);
+}
+
+img {
+  width: 100%;    
+  height: auto;   
+  max-width: 500px; 
 }
