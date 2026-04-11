@@ -5,8 +5,8 @@
   background-color: rgb(187, 183, 172);
 }
 
-img {
-  width: 100%;    
-  height: auto;   
+h1 img {
+  width: 300;    
+  height: 50px;   
   max-width: 500px; 
 }
