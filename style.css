@@ -49,8 +49,6 @@ footer{
     border-radius: 10px;
     border: 5px solid rgb(0, 73, 116)
 }
-
-.categora
 .container {
     display: flex;            /* ativa o flexbox */
     justify-content: center;  /* alinha os itens na horizontal */
