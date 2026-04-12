@@ -17,16 +17,21 @@ body {
 h1 img{
     height: 450px;
     width: 1905px;
-    margin-bottom: -13px; /* espaço abaixo */
+    margin-bottom: -13px; 
 }
 
 h2 {
-    background-color: rgb(0, 70, 110); /* fundo do título */
-    color: #d6d6cc; /* cor do texto */
-    font-size: 50px; /* tamanho grande */
+    background-color: rgb(0, 50, 78); 
+    color: #d6d6cc; 
+    font-size: 50px; 
     text-align: center;
-    margin: auto; /* centraliza */
-    margin-bottom: 15px; /* espaço abaixo */
-    padding: 10px; /* espaço interno (corrigi o px vazio) */
-    max-width: 5000px; /* largura máxima (5020 tava gigante kkk) */ 
+    margin: auto; 
+    margin-bottom: 15px; 
+    padding: 10px; 
+    max-width: 5000px; 
+}
+
+p{
+     text-align: center;
+     font-size: 22px;
 }
