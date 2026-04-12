@@ -49,3 +49,22 @@ footer{
     border-radius: 10px;
     border: 5px solid rgb(0, 73, 116)
 }
+
+.categora
+.container {
+    display: flex;            /* ativa o flexbox */
+    justify-content: center;  /* alinha os itens na horizontal */
+    align-items: center;      /* alinha os itens na vertical */
+    gap: 20px;                /* espaço entre os elementos */
+    height: 120vh;            /* altura total da tela */
+}
+
+.card {
+    text-align: center;       /* centraliza o texto dentro do card */
+}
+
+.card img {
+    width: 150px;             /* largura da imagem */
+    border-radius: 10px;      /* deixa bordas arredondadas */
+    transition: 0.3s;         /* animação suave */
+}
