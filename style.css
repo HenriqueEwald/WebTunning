@@ -133,3 +133,14 @@ table{
     color: green;
     font-size: 18px;
 }
+
+.form {
+  position: fixed;      
+  right: 20px;          
+  top: 100px;           
+  width: 300px;         
+  background: #f0f0f0;  
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
