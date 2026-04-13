@@ -141,7 +141,7 @@ table{
   width: 15rem;         
   background: #f0f0f0;  
   padding: 1rem;
-  border-radius: 8px;
+  border-radius: 0.7rem;
   box-shadow: 0 0 1rem rgba(0,0,0,0.2);
 }
 
@@ -156,6 +156,7 @@ nav {
     border-radius: 20px;
     border: 5px solid black
 }
+<<<<<<< HEAD
 
 .form-contato {
     position: center;
@@ -214,3 +215,5 @@ nav {
 .form-contato button[type="submit"]:hover {
     background: #1d4ed8;
 }
+=======
+>>>>>>> parent of 4c41441 (Ajuste no CSS do form, Criação da pagina compra, e crianção de botoes para UX)
