@@ -141,6 +141,10 @@ table{
     box-shadow: 0 0 10px rgba(0,0,0,0.2);
 }
 
+form p{
+    margin-bottom: 10px;
+}
+
 nav {
     text-align: center;
     background-color: #FFD700;
