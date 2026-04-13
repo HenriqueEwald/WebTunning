@@ -159,7 +159,6 @@ nav {
 <<<<<<< HEAD
 
 .form-contato {
-    position: center;
     width: 320px;
     background: #ffffff;
     padding: 20px;
@@ -215,4 +214,66 @@ nav {
 .form-contato button[type="submit"]:hover {
     background: #1d4ed8;
 }
+<<<<<<< HEAD
 
+=======
+\* Form de pagamento \*
+
+.form-pagamento {
+    position: center;
+    width: 320px;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+    display: block;
+}
+
+.form-pagamento p {
+    font-size: 14px;
+    color: #333;
+    margin-bottom: 15px;
+    line-height: 1.4;
+}
+
+.form-pagamento input,
+.form-pagamento textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 14px;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.form-pagamento input:focus,
+.form-pagamento textarea:focus {
+    border-color: #2563eb;
+    box-shadow: 0 0 5px rgba(37, 99, 235, 0.25);
+}
+
+.form-pagamento textarea {
+    resize: none;
+    height: 90px;
+}
+
+.form-pagamento button {
+    padding: 10px 14px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.form-pagamento button[type="submit"] {
+    width: 100%;
+    background: #2563eb;
+    color: white;
+    font-size: 15px;
+}
+
+.form-pagamento button[type="submit"]:hover {
+    background: #1d4ed8;
+}
+>>>>>>> parent of 43526ee (criaçaõ de nova pagina, ajustes no html e css)
