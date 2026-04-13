@@ -52,7 +52,7 @@ footer{
     padding: 10px; 
     max-width: 1200px; 
     border-radius: 100px;
-    border: 5px solid rgb(0, 73, 116)
+    border: 5px solid rgb(0, 73, 116);
 }
 
 .container {
@@ -129,14 +129,16 @@ table{
 }
 
 .form {
-  position: fixed;      
-  right: 0.7rem;          
-  top: 6.5rem;           
-  width: 15rem;         
-  background: #f0f0f0;  
-  padding: 1rem;
-  border-radius: 0.7rem;
-  box-shadow: 0 0 1rem rgba(0,0,0,0.2);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 40px;                    
+    width: 880px;
+    padding: 10px;
+    border-radius: 10px;
+    background: rgb(0, 73, 116);
+    color: #d6d6cc;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
 }
 
 nav {
